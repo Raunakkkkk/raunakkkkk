@@ -1,8 +1,10 @@
 
+
+
+
 <h1 align="center">Hi 👋, I'm Raunak Agarwal</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif">
-
 - 🌱 I’m currently learning **Backend Development and DSA.**
 
 - 👨‍💻 All of my projects are available at [https://raunakkkkk.github.io/Portfolio-Website/](https://raunakkkkk.github.io/Portfolio-Website/)
@@ -14,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raunak-agarwal-397467257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raunak-agarwal-397467257" height="30" width="40" /></a>
-<a href="https://instagram.com/agarwalr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agarwalr" height="30" width="40" /></a>
+<a href="https://instagram.com/agarwal.raunakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agarwal.raunakk" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/raunakkk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raunakkk" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/agarwalraunak2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/agarwalraunak2000" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/agarwalraunak2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="agarwalraunak2000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/agarwalraunak2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agarwalraunak2000" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/agarwalra4a9t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="agarwalra4a9t" height="30" width="40" /></a>
 </p>
