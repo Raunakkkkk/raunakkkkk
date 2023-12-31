@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **agarwalraunak2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MBfvziJoWs5B3E_sZc6he9np8pdOHyru/view?usp=drive_link](https://drive.google.com/file/d/1MBfvziJoWs5B3E_sZc6he9np8pdOHyru/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raunak-agarwal-397467257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raunak-agarwal-397467257" height="30" width="40" /></a>
