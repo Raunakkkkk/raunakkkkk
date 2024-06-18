@@ -8,7 +8,7 @@
 
 - 🎓 Second-year B.Tech CSE student at IIIT Kota.
 
-- 🌱 I’m currently learning **Backend Development and DSA.**
+- 🌱 I’m currently practicing **CP and DSA.**
 
 - 👨‍💻 All of my projects are available at [https://raunakkkkk.github.io/Portfolio-Website/](https://raunakkkkk.github.io/Portfolio-Website/)
 
