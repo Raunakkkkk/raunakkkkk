@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif">
 
-- 🎓 Second-year B.Tech CSE student at IIIT Kota.
+- 🎓 Third-year B.Tech CSE student at IIIT Kota.
 
 - 🌱 I’m currently practicing **CP and DSA.**
 
