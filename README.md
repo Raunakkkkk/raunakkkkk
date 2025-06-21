@@ -1,96 +1,65 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Raunak Agarwal</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif">
 
 - 🎓 Third-year B.Tech CSE student at IIIT Kota.
 
 - 🌱 I’m currently practicing **CP and DSA.**
 
-- 👨‍💻 All of my projects are available at [https://raunakkkkk.github.io/Portfolio-Website/](https://raunakkkkk.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://raunakkkkk.github.io/Portfolio-Website/)
 
 - 📫 How to reach me **agarwalraunak2000@gmail.com**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raunak-agarwal-397467257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raunak-agarwal-397467257" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/raunakkk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raunakkk" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/agarwalraunak2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="agarwalraunak2000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/agarwalraunak2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agarwalraunak2000" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/agarwalra4a9t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="agarwalra4a9t" height="30" width="40" /></a>
+  <a href="mailto:agarwalraunak2000@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" width="30" height="30" />
+  </a>
+  <a href="https://linkedin.com/in/raunak-agarwal-397467257" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30" height="30" />
+  </a>
+  <a href="https://www.codechef.com/users/raunakkk" target="blank">
+    <img align="center" src="https://img.icons8.com/windows/32/codechef.png" alt="Codechef" width="30" height="30" />
+  </a>
+  <a href="https://codeforces.com/profile/agarwalraunak2000" target="blank">
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces" width="30" height="30" />
+  </a>
+  <a href="https://www.leetcode.com/agarwalraunak2000" target="blank">
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Leetcode" width="30" height="30" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/agarwalra4a9t" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GFG" width="30" height="30" />
+  </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <!-- Updated Express.js logo -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/>
-  </a>
 
-  <!-- Updated Next.js logo -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sql" width="40" height="40"/> 
-  </a>
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios/50/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/heroku.png" alt="Heroku" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/postman-api.png" alt="Postman" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/blender-3d.png" alt="Blender" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios/50/redis.png" alt="Redis" width="40" height="40"/>
 </p>
