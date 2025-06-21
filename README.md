@@ -39,12 +39,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40" height="40"/>
+  
+  <!-- Updated Next.js logo -->
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
+
   <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" width="40" height="40"/>
+
+  <!-- Updated Express.js logo -->
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="40" height="40"/>
+
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40" height="40"/>
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" width="40" height="40"/>
@@ -56,7 +62,10 @@
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/heroku.png" alt="Heroku" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/postman-api.png" alt="Postman" width="40" height="40"/>
+
+  <!-- Updated Postman logo -->
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
+
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/blender-3d.png" alt="Blender" width="40" height="40"/>
