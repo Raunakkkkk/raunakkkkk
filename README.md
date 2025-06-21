@@ -21,9 +21,10 @@
   <a href="https://linkedin.com/in/raunak-agarwal-397467257" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30" height="30" />
   </a>
-  <a href="https://www.codechef.com/users/raunakkk" target="blank">
-    <img align="center" src="https://img.icons8.com/windows/32/codechef.png" alt="Codechef" width="30" height="30" />
-  </a>
+<a href="https://www.codechef.com/users/raunakkk" target="blank">
+  <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="30" height="30" />
+</a>
+
   <a href="https://codeforces.com/profile/agarwalraunak2000" target="blank">
     <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces" width="30" height="30" />
   </a>
