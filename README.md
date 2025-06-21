@@ -66,7 +66,7 @@
 
   <!-- Updated Postman logo -->
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40" style="background-color: white; border-radius: 6px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40" />
 
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
