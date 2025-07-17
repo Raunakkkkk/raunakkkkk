@@ -5,8 +5,6 @@
 
 - 🎓 Third-year B.Tech CSE student at IIIT Kota.
 
-- 🌱 I’m currently practicing **CP and DSA.**
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://raunakkkkk.github.io/Portfolio-Website/)
 
 - 📫 How to reach me **agarwalraunak2000@gmail.com**
