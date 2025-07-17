@@ -10,30 +10,32 @@
 - 📫 How to reach me **agarwalraunak2000@gmail.com**
 
 ---
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:agarwalraunak2000@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" width="30" height="30" />
+  <a href="mailto:agarwalraunak2000@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" width="30" height="30" />
   </a>
-  <a href="https://linkedin.com/in/raunak-agarwal-397467257" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30" height="30" />
+  &nbsp;
+  <a href="https://linkedin.com/in/raunak-agarwal-397467257" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30" height="30" />
   </a>
-<a href="https://www.codechef.com/users/raunakkk" target="blank">
-  <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="30" height="30" />
-</a>
-
-  <a href="https://codeforces.com/profile/agarwalraunak2000" target="blank">
-    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces" width="30" height="30" />
+  &nbsp;
+  <a href="https://www.codechef.com/users/raunakkk" target="_blank">
+    <img src="https://cdn.codechef.com/sites/default/files/CC-Full-Logo.png" alt="CodeChef" width="30" height="30" />
   </a>
-  <a href="https://www.leetcode.com/agarwalraunak2000" target="blank">
-    <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Leetcode" width="30" height="30" />
+  &nbsp;
+  <a href="https://codeforces.com/profile/agarwalraunak2000" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" alt="Codeforces" width="30" height="30"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/agarwalra4a9t" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GFG" width="30" height="30" />
+  &nbsp;
+  <a href="https://www.leetcode.com/agarwalraunak2000" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/agarwalra4a9t" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" height="30" />
   </a>
 </p>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
