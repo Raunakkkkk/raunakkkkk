@@ -25,14 +25,14 @@
   </a>
   &nbsp;
   <a href="https://www.codechef.com/users/raunakkk" target="_blank">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" />
+    <img src="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png&color=000000" alt="CodeChef" height="30" />
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/agarwalraunak2000" target="_blank">
-    <img src="https://sta.codeforces.com/s/67799/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="30" />
+    <img src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" alt="Codeforces" height="30" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/agarwalraunak2000" target="_blank">
+  <a href="https://leetcode.com/agarwalraunak2000" target="_blank"
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" />
   </a>
   &nbsp;
