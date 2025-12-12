@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif">
 
-- 🎓 Third-year B.Tech CSE student at IIIT Kota  
+- 🎓 Final-year B.Tech CSE student at IIIT Kota  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://raunakkkkk.github.io/Portfolio-Website/)  
 - 📫 How to reach me: **agarwalraunak2000@gmail.com**
 
