@@ -46,5 +46,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,postgres,html,css,bootstrap,tailwind,materialui,chakra,github,git,vercel,netlify,heroku,linux,postman,java,cpp,python,redis,aws,docker,vscode,kaggle" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,postgres,html,css,bootstrap,tailwind,materialui,chakra,github,git,vercel,netlify,heroku,linux,postman,java,cpp,python,redis,aws,docker,vscode,kaggle,ionic" />
 </p>
